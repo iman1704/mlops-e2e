@@ -3,7 +3,6 @@
 This sample project uses a sample machine learning project to showcase how we can implement MLOps - CI/CD for Machine Learning using [Amazon SageMaker](https://aws.amazon.com/sagemaker/),  [AWS CodePipeline](https://aws.amazon.com/codepipeline/) and [AWS CDK](https://aws.amazon.com/cdk/)
 
 ## Pre-requisite
-aaaa
 
 * [Python](https://www.python.org/) (version 3.8 or higher)
 * [NodeJS](https://nodejs.org/en/) (version 14 or higher)
